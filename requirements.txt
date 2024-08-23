@@ -8,7 +8,7 @@ future==0.18.2
 idna==3.3
 pefile==2021.9.3
 pycodestyle==2.8.0
-Pygments==2.11.2
+Pygments==2.15.0
 pyinstaller==4.10
 pyinstaller-hooks-contrib==2022.3
 pyodbc==4.0.32
