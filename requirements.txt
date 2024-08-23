@@ -13,7 +13,7 @@ pyinstaller==4.10
 pyinstaller-hooks-contrib==2022.3
 pyodbc==4.0.32
 pywin32-ctypes==0.2.0
-requests==2.27.1
+requests==2.32.2
 rich==12.1.0
 schedule==1.1.0
 six==1.16.0
